@@ -19,7 +19,7 @@ package org.owasp.benchmark.helpers;
 
 import java.io.BufferedReader;
 import java.io.ByteArrayOutputStream;
-import java.io.File;
+import java.io.File;dede
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.FileReader;
